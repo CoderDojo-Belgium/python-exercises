@@ -11,6 +11,7 @@ if not os.path.exists(evaldir):
 
 # configuration settings
 settings = '''--------------------------------------------------------------------
+tab name: feedback
 python input without prompt: true
 block count: multi
 input block size: 2

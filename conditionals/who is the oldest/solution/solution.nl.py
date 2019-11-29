@@ -1,10 +1,10 @@
 # naam en leeftijd eerste persoon opvragen
 naam1 = input()
-leeftijd1 = input()
+leeftijd1 = int(input())
 
 # naam en leeftijd tweede persoon opvragen
 naam2 = input()
-leeftijd2 = input()
+leeftijd2 = int(input())
 
 # antwoord bepalen
 if leeftijd1 < leeftijd2:
