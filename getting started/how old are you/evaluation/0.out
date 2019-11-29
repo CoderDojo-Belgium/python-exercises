@@ -1,0 +1,15 @@
+Alice is 9 years old.
+Bob is 21 years old.
+Claire is 15 years old.
+Dave is 37 years old.
+--------------------------------------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 2
+output block size: 1
+comparison: exact match
+<LANGUAGE code="nl">
+    <function from="years" to="jaar" />
+    <function from="old" to="oud" />
+</LANGUAGE>
+
