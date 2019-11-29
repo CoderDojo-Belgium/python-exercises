@@ -18,8 +18,8 @@ input block size: 2
 output block size: 1
 comparison: exact match
 <LANGUAGE code="nl">
-    <function from="years" to="jaar" />
-    <function from="old" to="oud" />
+    <fixed from="years" to="jaar" />
+    <fixed from="old" to="oud" />
 </LANGUAGE>
 '''
 
