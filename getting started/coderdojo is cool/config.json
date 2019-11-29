@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "en": "CoderDojo is cool!",
+      "nl": "CoderDojo is cool!"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ]
+}
