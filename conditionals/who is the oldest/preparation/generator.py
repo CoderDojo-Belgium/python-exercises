@@ -13,17 +13,29 @@ if not os.path.exists(evaldir):
 settings = '''--------------------------------------------------------------------
 python input without prompt: true
 block count: multi
-input block size: 2
+input block size: 4
 output block size: 1
 comparison: exact match
 <LANGUAGE code="nl">
-    <fixed from="years" to="jaar" />
-    <fixed from="old" to="oud" />
+    <fixed from="younger" to="jonger" />
+    <fixed from="older" to="ouder" />
+    <fixed from="then" to="dan" />
+    <fixed from="and" to="en" />
+    <fixed from="are the same age" to="zijn even oud" />
 </LANGUAGE>
 '''
 
+def result(name1, age1, name2, age2):
+
+    if age1 < age2:
+        return f'{name1} is younger then {name2}'
+    elif age1 > age2:
+        return f'{name1} is older then {name2}'
+    else:
+        return f'{name1} and {name2} are the same age'
+
 # generate test cases
-cases = [
+persons = [
     ('Alice', 9),
     ('Bob', 11),
     ('Claire', 15),
@@ -31,20 +43,29 @@ cases = [
     ('Emily', 11),
     ('Frank', 16),
 ]
+cases = [
+    ('Alice', 9, 'Bob', 11),
+    ('Dave', 37, 'Claire', 15),
+    ('Bob', 11, 'Emily', 11),
+]
+while len(cases) < 10:
+
+    first, second = random.sample(persons, 2)
+    if first + second not in cases:
+        cases.append(first + second)
 
 # configure test files
 infile = open(os.path.join(evaldir, '0.in'), 'w', encoding='utf8')
 outfile = open(os.path.join(evaldir, '0.out'), 'w', encoding='utf8')
 
 # generate unit tests
-for name, age in cases:
+for case in cases:
 
     # add unit test to input file
-    print(name, file=infile)
-    print(age, file=infile)
+    print(*case, sep='\n', file=infile)
 
     # add unit test to output file
-    print(f'{name} is {age} years old.', file=outfile)
+    print(result(*case), file=outfile)
 
 # output settings
 print(settings, file=outfile)

@@ -1,0 +1,24 @@
+Alice is younger then Bob
+Dave is older then Claire
+Bob and Emily are the same age
+Frank is younger then Dave
+Emily is younger then Frank
+Dave is older then Emily
+Claire is younger then Dave
+Frank is older then Bob
+Frank is older then Emily
+Alice is younger then Claire
+--------------------------------------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 4
+output block size: 1
+comparison: exact match
+<LANGUAGE code="nl">
+    <fixed from="younger" to="jonger" />
+    <fixed from="older" to="ouder" />
+    <fixed from="then" to="dan" />
+    <fixed from="and" to="en" />
+    <fixed from="are the same age" to="zijn even oud" />
+</LANGUAGE>
+

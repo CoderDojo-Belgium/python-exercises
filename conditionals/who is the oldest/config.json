@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "en": "Who is the oldest?",
+      "nl": "Wie is de oudste?"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ]
+}
