@@ -1,0 +1,150 @@
+>>> first_letter('Sansa')
+'S'
+
+>>> first_letter('Jon')
+'J'
+
+>>> first_letter('Gregor')
+'G'
+
+>>> first_letter('Arya')
+'A'
+
+>>> first_letter('Tyrion')
+'T'
+
+>>> first_letter('Cersei')
+'C'
+
+>>> first_letter('Khal')
+'K'
+
+>>> first_letter('Eddard')
+'E'
+
+>>> first_letter('Joffrey')
+'J'
+
+>>> first_letter('Petyr')
+'P'
+
+>>> first_letter('Sandor')
+'S'
+
+>>> first_letter('Jaime')
+'J'
+
+>>> first_letter('Ramsay')
+'R'
+
+>>> first_letter('Theon')
+'T'
+
+>>> first_letter('Margaery')
+'M'
+
+>>> first_letter('Oberyn')
+'O'
+
+>>> first_letter('Bran')
+'B'
+
+>>> first_letter('Yara')
+'Y'
+
+>>> first_letter('Daario')
+'D'
+
+>>> first_letter('Jorah')
+'J'
+
+>>> first_letter('Tormund')
+'T'
+
+>>> first_letter('Stannis')
+'S'
+
+>>> first_letter('Tommen')
+'T'
+
+>>> first_letter('Samwell')
+'S'
+
+>>> first_letter('Robb')
+'R'
+
+>>> first_letter('Jaqen')
+'J'
+
+>>> first_letter('Tywin')
+'T'
+
+>>> first_letter('Tyene')
+'T'
+
+>>> first_letter('Grey')
+'G'
+
+>>> first_letter('Loras')
+'L'
+
+>>> first_letter('Myrcella')
+'M'
+
+>>> first_letter('Jojen')
+'J'
+
+>>> first_letter('Walder')
+'W'
+
+>>> first_letter('Lady')
+'L'
+
+>>> first_letter('Davos')
+'D'
+
+>>> first_letter('Catelyn')
+'C'
+
+>>> first_letter('Ellaria')
+'E'
+
+>>> first_letter('Podrick')
+'P'
+
+>>> first_letter('Meryn')
+'M'
+
+>>> first_letter('Janos')
+'J'
+
+>>> first_letter('Rodrik')
+'R'
+
+>>> first_letter('Renly')
+'R'
+
+>>> first_letter('Barristan')
+'B'
+
+>>> first_letter('Alliser')
+'A'
+
+>>> first_letter('Othell')
+'O'
+
+>>> first_letter('Greatjon')
+'G'
+
+>>> first_letter('Syrio')
+'S'
+
+>>> first_letter('Rickard')
+'R'
+
+>>> first_letter('Beric')
+'B'
+
+>>> first_letter('Eddison')
+'E'
+

@@ -1,0 +1,21 @@
+def first_letter(name):
+
+    """
+    >>> first_letter('Sansa')
+    'S'
+    >>> first_letter('Jon')
+    'J'
+    """
+
+def username(first_name, last_name):
+
+    """
+    >>> username('Sansa', 'Stark')
+    'sstark'
+    >>> username('Jon', 'Snow')
+    'jsnow'
+    """
+
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()

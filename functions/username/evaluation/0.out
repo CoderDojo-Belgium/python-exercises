@@ -1,0 +1,6 @@
+---------------------------------------------------
+tab name: first_letter
+<LANGUAGE code="nl">
+    <function from="first_letter" to="eerste_letter" />
+    <function from="username" to="gebruikersnaam" />
+</LANGUAGE>
