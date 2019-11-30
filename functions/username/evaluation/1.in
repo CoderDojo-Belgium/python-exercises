@@ -1,0 +1,150 @@
+>>> username('Sansa', 'Stark')
+'sstark'
+
+>>> username('Jon', 'Snow')
+'jsnow'
+
+>>> username('Gregor', 'Clegane')
+'gclegane'
+
+>>> username('Arya', 'Stark')
+'astark'
+
+>>> username('Tyrion', 'Lannister')
+'tlannister'
+
+>>> username('Cersei', 'Lannister')
+'clannister'
+
+>>> username('Khal', 'Drogo')
+'kdrogo'
+
+>>> username('Eddard', 'Stark')
+'estark'
+
+>>> username('Joffrey', 'Baratheon')
+'jbaratheon'
+
+>>> username('Petyr', 'Baelish')
+'pbaelish'
+
+>>> username('Sandor', 'Clegane')
+'sclegane'
+
+>>> username('Jaime', 'Lannister')
+'jlannister'
+
+>>> username('Ramsay', 'Bolton')
+'rbolton'
+
+>>> username('Theon', 'Greyjoy')
+'tgreyjoy'
+
+>>> username('Margaery', 'Tyrell')
+'mtyrell'
+
+>>> username('Oberyn', 'Martell')
+'omartell'
+
+>>> username('Bran', 'Stark')
+'bstark'
+
+>>> username('Yara', 'Greyjoy')
+'ygreyjoy'
+
+>>> username('Daario', 'Naharis')
+'dnaharis'
+
+>>> username('Jorah', 'Mormont')
+'jmormont'
+
+>>> username('Tormund', 'Giantsbane')
+'tgiantsbane'
+
+>>> username('Stannis', 'Baratheon')
+'sbaratheon'
+
+>>> username('Tommen', 'Baratheon')
+'tbaratheon'
+
+>>> username('Samwell', 'Tarly')
+'starly'
+
+>>> username('Robb', 'Stark')
+'rstark'
+
+>>> username('Jaqen', 'Hghar')
+'jhghar'
+
+>>> username('Tywin', 'Lannister')
+'tlannister'
+
+>>> username('Tyene', 'Sand')
+'tsand'
+
+>>> username('Grey', 'Worm')
+'gworm'
+
+>>> username('Loras', 'Tyrell')
+'ltyrell'
+
+>>> username('Myrcella', 'Baratheon')
+'mbaratheon'
+
+>>> username('Jojen', 'Reed')
+'jreed'
+
+>>> username('Walder', 'Frey')
+'wfrey'
+
+>>> username('Lady', 'Crane')
+'lcrane'
+
+>>> username('Davos', 'Seaworth')
+'dseaworth'
+
+>>> username('Catelyn', 'Stark')
+'cstark'
+
+>>> username('Ellaria', 'Sand')
+'esand'
+
+>>> username('Podrick', 'Payne')
+'ppayne'
+
+>>> username('Meryn', 'Trant')
+'mtrant'
+
+>>> username('Janos', 'Slynt')
+'jslynt'
+
+>>> username('Rodrik', 'Cassel')
+'rcassel'
+
+>>> username('Renly', 'Baratheon')
+'rbaratheon'
+
+>>> username('Barristan', 'Selmy')
+'bselmy'
+
+>>> username('Alliser', 'Thorne')
+'athorne'
+
+>>> username('Othell', 'Yarwyck')
+'oyarwyck'
+
+>>> username('Greatjon', 'Umber')
+'gumber'
+
+>>> username('Syrio', 'Forel')
+'sforel'
+
+>>> username('Rickard', 'Karstark')
+'rkarstark'
+
+>>> username('Beric', 'Dondarrion')
+'bdondarrion'
+
+>>> username('Eddison', 'Tollett')
+'etollett'
+
