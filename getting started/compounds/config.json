@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "en": "Compounds",
+      "nl": "Samengestelde woorden"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ]
+}
