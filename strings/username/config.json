@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "en": "Username",
+      "nl": "Gebruikersnaam"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ]
+}

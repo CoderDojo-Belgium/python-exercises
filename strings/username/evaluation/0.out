@@ -1,0 +1,61 @@
+sstark
+jsnow
+gclegane
+astark
+tlannister
+clannister
+kdrogo
+estark
+jbaratheon
+pbaelish
+sclegane
+jlannister
+rbolton
+tgreyjoy
+mtyrell
+omartell
+bstark
+ygreyjoy
+dnaharis
+jmormont
+tgiantsbane
+sbaratheon
+tbaratheon
+starly
+rstark
+jhghar
+tlannister
+tsand
+gworm
+ltyrell
+mbaratheon
+jreed
+wfrey
+lcrane
+dseaworth
+cstark
+esand
+ppayne
+mtrant
+jslynt
+rcassel
+rbaratheon
+bselmy
+athorne
+oyarwyck
+gumber
+sforel
+rkarstark
+bdondarrion
+etollett
+--------------------------------------------------------------------
+tab name: username
+python input without prompt: true
+block count: multi
+input block size: 2
+output block size: 1
+comparison: exact match
+<LANGUAGE code="nl">
+    <fixed from="username" to="gebruikersnaam" />
+</LANGUAGE>
+
