@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "en": "Echo",
+      "nl": "Echo"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ]
+}
