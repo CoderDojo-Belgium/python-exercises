@@ -1,0 +1,61 @@
+even
+odd
+even
+even
+odd
+even
+even
+odd
+odd
+odd
+even
+even
+odd
+odd
+odd
+odd
+odd
+odd
+even
+odd
+odd
+even
+even
+even
+odd
+even
+even
+odd
+even
+odd
+even
+odd
+odd
+even
+even
+odd
+odd
+odd
+even
+odd
+odd
+even
+odd
+even
+even
+even
+odd
+odd
+even
+even
+--------------------------------------------------------------------
+tab name: feedback
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1
+comparison: exact match
+<LANGUAGE code="nl">
+    <fixed from="odd" to="oneven" />
+</LANGUAGE>
+
