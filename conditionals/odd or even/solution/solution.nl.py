@@ -1,18 +1,5 @@
-# naam en leeftijd eerste persoon opvragen
-naam1 = input()
-leeftijd1 = int(input())
+# getal inlezen
+getal = int(input())
 
-# naam en leeftijd tweede persoon opvragen
-naam2 = input()
-leeftijd2 = int(input())
-
-# antwoord bepalen
-if leeftijd1 < leeftijd2:
-    antwoord = f'{naam1} is jonger dan {naam2}'
-elif leeftijd1 > leeftijd2:
-    antwoord = f'{naam1} is ouder dan {naam2}'
-else:
-    antwoord = f'{naam1} en {naam2} zijn even oud'
-
-# antwoord uitschrijven
-print(antwoord)
+# is getal even of oneven?
+print('oneven' if getal % 2 else 'even')

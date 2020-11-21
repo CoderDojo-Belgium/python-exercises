@@ -1,0 +1,61 @@
+positive
+negative
+positive
+positive
+positive
+positive
+positive
+positive
+negative
+positive
+positive
+positive
+negative
+positive
+positive
+positive
+negative
+positive
+positive
+negative
+negative
+positive
+negative
+positive
+positive
+negative
+negative
+positive
+positive
+positive
+positive
+negative
+negative
+negative
+positive
+positive
+negative
+negative
+negative
+positive
+positive
+negative
+negative
+positive
+positive
+negative
+positive
+negative
+negative
+negative
+--------------------------------------------------------------------
+tab name: feedback
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1
+comparison: exact match
+<LANGUAGE code="nl">
+    <fixed from="odd" to="oneven" />
+</LANGUAGE>
+

@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "en": "Positive or negative?",
+      "nl": "Positief of negatief?"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ]
+}
