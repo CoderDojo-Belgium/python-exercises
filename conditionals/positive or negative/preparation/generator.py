@@ -18,7 +18,8 @@ input block size: 1
 output block size: 1
 comparison: exact match
 <LANGUAGE code="nl">
-    <fixed from="odd" to="oneven" />
+    <fixed from="positive" to="positief" />
+    <fixed from="negative" to="negatief" />
 </LANGUAGE>
 '''
 
