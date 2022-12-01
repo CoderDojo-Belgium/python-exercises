@@ -1,1 +1,0 @@
-print('CoderDojo is cool!')
